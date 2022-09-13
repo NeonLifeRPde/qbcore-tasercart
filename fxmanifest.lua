@@ -1,9 +1,8 @@
--- Stating the FX Version and Game 
 fx_version 'cerulean'
 games 'gta5'
 
 -- Insert Author Name, Description and Version of Script
-author 'L1 & ItssJxstn
+author 'L1 & ItssJxstn'
 description 'Taser Cardridge for qb-core'
 version '1.0.0'
 
