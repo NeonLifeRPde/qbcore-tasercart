@@ -2,7 +2,7 @@
 Put this In your [standalone] folder. 
 Go to Server CFG and put `ensure TaserCart` in.
 
-Go to qb-inventory/html/images and put the taser_cardridge.png in it
+Go to qb-inventory/html/images and put the `taser_cardridge.png` in it
 
 Now Simply add this Item to:
 
