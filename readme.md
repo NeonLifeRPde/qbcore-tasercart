@@ -20,3 +20,5 @@ qb-core/shared/items.lua
                     ["combinable"] = nil,
                     ["description"] = ""
                 },`
+
+Credits: 𝙻𝚎𝚐𝚎𝚗𝚍𝚇𝙸#7926
