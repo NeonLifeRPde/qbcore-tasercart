@@ -1,9 +1,8 @@
 fx_version 'cerulean'
-games 'gta5'
+games { 'gta5' }
 
--- Insert Author Name, Description and Version of Script
 author 'L1 & ItssJxstn'
-description 'Taser Cardridge for qb-core'
+description 'QBCore taser script'
 version '1.0.0'
 
 -- Insert Client Script Names
