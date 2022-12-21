@@ -1,16 +1,16 @@
 fx_version 'cerulean'
-games { 'gta5' }
+games {'gta5'}
 
-author 'L1 & ItssJxstn'
-description 'QBCore taser script'
-version '1.0.0'
+author 'NeonStudios'
 
--- Insert Client Script Names
-client_scripts {
-    'client.lua'
+shared_scripts {
+    'config.lua'
 }
 
--- Insert Server Script Names
+client_scripts {
+    'client/*.lua'
+}
+
 server_scripts {
-  'server.lua'
+    'server/*.lua'
 }
